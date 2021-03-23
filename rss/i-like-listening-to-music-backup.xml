@@ -10,7 +10,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
   
-  <channel>.
+  <channel>
     <title>I Like Listening To Music</title>
     <description>Amar Payton likes listening to music. That is all.</description>
     <link>N/A</link>
@@ -25,3 +25,8 @@
       
       <itunes-explicit>No</itunes-explicit>
       <!-- Most episodes won't be explicit. If they are "internet safe", then they will not be explicit. The only exception to this is, all instances of the s word, if included, will be explicit. -->
+    
+      
+      
+    </channel>
+    </rss>
